@@ -1,2 +1,3 @@
 welcome to first branch of test repo
 extra line
+conflict line 2
