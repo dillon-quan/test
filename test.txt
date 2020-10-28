@@ -1,2 +1,4 @@
 welcome to first branch of test repo
-conflect line
+extra line
+conflict line 2
+
